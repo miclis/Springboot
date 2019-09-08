@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>Java Brains Course API</name>
 
+    <!-- Just a config from parent module -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
